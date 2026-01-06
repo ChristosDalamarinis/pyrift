@@ -1,7 +1,7 @@
 [project]
 name = "rift"
 version = "0.1.0"
-description = ""
+description = "Python package for RIFT-specific EEG analysis"
 authors = [
     {name = "Christos Dalamarinis",email = "dalamarinischristos@gmail.com"}
 ]
